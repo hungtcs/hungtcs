@@ -2,10 +2,10 @@
 
 <hr />
 
-<div align="center">
+<div>
    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-     <img src="https://github-profile-trophy.vercel.app/?username=hungtcs" />
-  </a>
+      <img src="https://github-profile-trophy.vercel.app/?username=hungtcs&column=8" />
+   </a>
 </div>
 
 <hr />
