@@ -1,6 +1,4 @@
-![GIF](./dino.gif)
 
-<hr />
 
 <div>
    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
